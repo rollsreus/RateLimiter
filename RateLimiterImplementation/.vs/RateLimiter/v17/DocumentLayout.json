@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit\\source\\repos\\RateLimiter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89656C3A-048B-4913-B9B1-793B00E7BD13}|Ratelimiter\\Ratelimiter.csproj|c:\\users\\ankit\\source\\repos\\ratelimiter\\ratelimiter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89656C3A-048B-4913-B9B1-793B00E7BD13}|Ratelimiter\\Ratelimiter.csproj|solutionrelative:ratelimiter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit\\source\\repos\\RateLimiter\\Ratelimiter\\Program.cs",
+              "RelativeDocumentMoniker": "Ratelimiter\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit\\source\\repos\\RateLimiter\\Ratelimiter\\Program.cs",
+              "RelativeToolTip": "Ratelimiter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:46:06.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
