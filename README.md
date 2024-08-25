@@ -1,4 +1,6 @@
-RateLimiting Implementation in .NET Minimal API using algorithms
+RateLimiting Middleware Implementation in .NET 8 Minimal API 
+
+using algorithms
 
 Fixed Window
 Sliding Window
